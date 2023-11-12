@@ -1,0 +1,18 @@
+{
+  "name": "vanilla-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@base/tokens": "workspace:tokens@1.0.0",
+    "@base/vanilla-extract": "workspace:vanilla-extract@1.0.0",
+    "@vanilla-extract/css": "^1.14.0",
+    "@vanilla-extract/recipes": "^0.5.1",
+    "@vanilla-extract/sprinkles": "^1.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
